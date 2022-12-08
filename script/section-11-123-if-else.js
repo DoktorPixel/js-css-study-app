@@ -46,7 +46,7 @@ if (Number(userNamber) > 0) {
   alert(0);
 }
 
-/* SAME AS ABOVE:
+//  SAME AS ABOVE:
 
 let value = prompt('Введите число', 0);
 if (value > 0) {
@@ -56,7 +56,7 @@ if (value > 0) {
     } else {
     alert( 0 );
     } 
-*/
+
 
 let result;
 if (a + b < 4) {
